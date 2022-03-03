@@ -32618,7 +32618,7 @@ A.Bz.prototype={
 R(a,b){var s=null,r=A.L3(60)
 return new A.pS(new A.rB(new A.RB(),20,A.fE(B.aN,A.md(A.Cw(B.zm,B.aL,B.bx),s,s),s,new A.ee(B.bj,s,s,r,s,s,B.aO),60,s,s,60),B.dZ,s),60,B.cK,!0,B.ag,!0,B.by,B.bm,s)}}
 A.RB.prototype={
-$0(){var s="assets/audio/",r=$.aR;(r==null?$.aR=new A.c3(A.co(A.cp(B.D,null),s)):r).Ue()
+$0(){var s="audio/",r=$.aR;(r==null?$.aR=new A.c3(A.co(A.cp(B.D,null),s)):r).Ue()
 r=$.aR;(r==null?$.aR=new A.c3(A.co(A.cp(B.D,null),s)):r).n5()
 r=$.aR;(r==null?$.aR=new A.c3(A.co(A.cp(B.D,null),s)):r).pu()},
 $S:0}
@@ -32627,7 +32627,7 @@ i(a){return"PossibleSwap."+this.b}}
 A.rO.prototype={
 aE(){return new A.Gk(B.m)}}
 A.Gk.prototype={
-b1(){var s=$.aR;(s==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):s).cv()
+b1(){var s=$.aR;(s==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):s).cv()
 this.bB()},
 R(a,b){return new A.rz(B.CQ,"Chromatic Puzzle",A.a7J(null,B.by),null)}}
 A.rP.prototype={
@@ -32677,77 +32677,77 @@ default:s=3
 break}break
 case 4:q=$.aR
 s=19
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).mx(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).mx(),$async$cL)
 case 19:s=3
 break
 case 5:q=$.aR
 s=20
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pw(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pw(),$async$cL)
 case 20:s=3
 break
 case 6:q=$.aR
 s=21
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pv(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pv(),$async$cL)
 case 21:s=3
 break
 case 7:q=$.aR
 s=22
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).py(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).py(),$async$cL)
 case 22:s=3
 break
 case 8:q=$.aR
 s=23
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).px(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).px(),$async$cL)
 case 23:s=3
 break
 case 9:q=$.aR
 s=24
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pz(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pz(),$async$cL)
 case 24:s=3
 break
 case 10:q=$.aR
 s=25
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pB(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pB(),$async$cL)
 case 25:s=3
 break
 case 11:q=$.aR
 s=26
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pA(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pA(),$async$cL)
 case 26:s=3
 break
 case 12:q=$.aR
 s=27
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pD(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pD(),$async$cL)
 case 27:s=3
 break
 case 13:q=$.aR
 s=28
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pC(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pC(),$async$cL)
 case 28:s=3
 break
 case 14:q=$.aR
 s=29
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).ps(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).ps(),$async$cL)
 case 29:s=3
 break
 case 15:q=$.aR
 s=30
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pr(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pr(),$async$cL)
 case 30:s=3
 break
 case 16:q=$.aR
 s=31
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pt(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pt(),$async$cL)
 case 31:s=3
 break
 case 17:q=$.aR
 s=32
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).pE(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).pE(),$async$cL)
 case 32:s=3
 break
 case 18:q=$.aR
 s=33
-return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):q).mx(),$async$cL)
+return A.D((q==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):q).mx(),$async$cL)
 case 33:s=3
 break
 case 3:return A.O(null,r)}})
@@ -32839,7 +32839,7 @@ $0(){var s=0,r=A.Q(t.H),q=this,p
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:p=$.aR
 s=2
-return A.D((p==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):p).mw(),$async$$0)
+return A.D((p==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):p).mw(),$async$$0)
 case 2:p=q.a
 p.wd()
 p.aK(new A.Zu())
@@ -32854,7 +32854,7 @@ $0(){var s=0,r=A.Q(t.H),q=this,p
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:p=$.aR
 s=2
-return A.D((p==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"assets/audio/")):p).mw(),$async$$0)
+return A.D((p==null?$.aR=new A.c3(A.co(A.cp(B.D,null),"audio/")):p).mw(),$async$$0)
 case 2:p=q.a
 p.wd()
 p.aK(new A.Zw())
